@@ -2,12 +2,13 @@ name: Alimentares
 favicon: null
 layout_spectrum: 0.5872579300776124
 typography_spectrum: 0.14505884959362447
+title: Tecnologia para a Nova Gastronomia
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-1289611-1
   facebook: null
   twitter: null
 opengraph:
